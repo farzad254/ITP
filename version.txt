@@ -1,2 +1,3 @@
-{5:{"critical": False,"comments":"Minor updates"}
+{6:{"critical": True,"comments":"More load cases added"},
+5:{"critical": False,"comments":"Minor updates"}
 }
