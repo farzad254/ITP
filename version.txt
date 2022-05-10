@@ -1,3 +1,4 @@
-{6:{"critical": True,"comments":"More load cases added"},
+{7:{"critical": True,"comments":"compatibility with version 2010"},
+6:{"critical": True,"comments":"More load cases added"},
 5:{"critical": False,"comments":"Minor updates"}
 }
