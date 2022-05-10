@@ -1,4 +1,5 @@
-{9:{"critical": True,"comments":"out of scope anchors are added"},
+{10:{"critical": False,"comments":"changes to facilitate batch post processing"},
+9:{"critical": True,"comments":"out of scope anchors are added"},
 8:{"critical": True,"comments":"no OP on jetty2"},
 7:{"critical": True,"comments":"compatibility with version 2010"},
 6:{"critical": True,"comments":"More load cases added"},
