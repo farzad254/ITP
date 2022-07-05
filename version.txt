@@ -1,4 +1,5 @@
-{16:{"critical": True,"comments":"fixing code checks and adding SIF in tees"},
+{17:{"critical": True,"comments":"fatique sustained step changed to W2P2"},
+16:{"critical": True,"comments":"fixing code checks and adding SIF in tees"},
 15:{"critical": False,"comments":"circulating line postprocessing added"},
 14:{"critical": True,"comments":"post processing load cases added and webbased compatibility"},
 13:{"critical": True,"comments":"occasional code checking implemented"},
