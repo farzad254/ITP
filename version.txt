@@ -1,4 +1,5 @@
-{18:{"critical": True,"comments":"SIFS for sustained and occational are corrected"},
+{19:{"critical": True,"comments":"inplane and outplane SIF reversed for tees"},
+18:{"critical": True,"comments":"SIFS for sustained and occational are corrected"},
 17:{"critical": True,"comments":"fatique sustained step changed to W2P2"},
 16:{"critical": True,"comments":"fixing code checks and adding SIF in tees"},
 15:{"critical": False,"comments":"circulating line postprocessing added"},
