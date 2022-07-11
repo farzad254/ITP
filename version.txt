@@ -1,4 +1,5 @@
-{21:{"critical": False,"comments":"lateral vertical added, rotation added for anchors"},
+{22:{"critical": True,"comments":"anchor loads graphs fixed"},
+21:{"critical": False,"comments":"lateral vertical added, rotation added for anchors"},
 20:{"critical": False,"comments":"sustained step for fatigue changed to W2P2"},
 19:{"critical": True,"comments":"inplane and outplane SIF reversed for tees"},
 18:{"critical": True,"comments":"SIFS for sustained and occational are corrected"},
