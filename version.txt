@@ -1,4 +1,5 @@
-{25:{"critical": True,"comments":"allowable for tees are fixed"},
+{26:{"critical": True,"comments":"occasional load checks will also be calculated based on loads excluding sustained"},
+25:{"critical": True,"comments":"allowable for tees are fixed"},
 24:{"critical": True,"comments":"minor updates in code checking for load case SA expansion calculations and offloading lines"},
 23:{"critical": True,"comments":"minor fixes in code checks, adding support and anchor displacements in separate tabs"},
 22:{"critical": True,"comments":"anchor loads graphs fixed"},
