@@ -1,4 +1,5 @@
-{29:{"critical": True,"comments":"sign of bellow fixed"},
+{30:{"critical": True,"comments":"bellow results changed to be compatible for all lines"},
+29:{"critical": True,"comments":"sign of bellow fixed"},
 28:{"critical": True,"comments":"more fixes on codechecking properties WT and OD and adding 11501W to the list"},
 27:{"critical": True,"comments":"fatigue calculations is changed to (W2P2T2 - W2P2) - (W1P1T1 - W1P1)"},
 26:{"critical": True,"comments":"occasional load checks will also be calculated based on loads excluding sustained"},
