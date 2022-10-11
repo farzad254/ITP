@@ -1,4 +1,5 @@
-{34:{"critical": True,"comments":"some changes for new TEE general beams"},
+{35:{"critical": True,"comments":"SIFs are updated for tees, reduction factor applied to WT in sustained loads"},
+34:{"critical": True,"comments":"some changes for new TEE general beams"},
 33:{"critical": True,"comments":"displacement for anchors and supports are changed so they will be always the correct IP or OP"},
 32:{"critical": True,"comments":"changes in how guide loads are reported with moements being added and RFz is the sum of grnd and support similar to RFx&y"},
 31:{"critical": True,"comments":"L3D to use occasional"},
