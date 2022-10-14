@@ -1,4 +1,5 @@
-{36:{"critical": True,"comments":"branch Z calculation is updated based on SIF iib"},
+{37:{"critical": True,"comments":"sustained index for torsional sif for tee is 1.0"},
+36:{"critical": True,"comments":"branch Z calculation is updated based on SIF iib"},
 35:{"critical": True,"comments":"SIFs are updated for tees, reduction factor applied to WT in sustained loads"},
 34:{"critical": True,"comments":"some changes for new TEE general beams"},
 33:{"critical": True,"comments":"displacement for anchors and supports are changed so they will be always the correct IP or OP"},
